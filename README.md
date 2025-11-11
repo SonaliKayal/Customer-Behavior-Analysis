@@ -1,6 +1,7 @@
 # Customer-Behavior-Analysis
+
 🛍️ Customer Shopping Behavior Model
-📘 Overview
+
 
 This project analyzes customer shopping behavior using transactional data to uncover insights about spending patterns, product preferences, and demographic trends.
 The goal is to understand how customers interact with products and offers and to help businesses make data-driven decisions that enhance customer engagement and sales performance.
