@@ -133,37 +133,6 @@ Promote Top Categories: Highlight high-revenue categories in campaigns.
 
 Targeted Marketing: Focus on high-value demographics and shipping preferences.
 
-⚙️ How to Run
-
-- Clone the Repository
-
-git clone https://github.com/yourusername/customer-shopping-behavior-model.git
-cd customer-shopping-behavior-model
-
-
-- Install Required Libraries
-
-pip install pandas numpy matplotlib seaborn pyodbc
-
-
-- Run the Python Notebook
-
-- Load the dataset and perform EDA.
-
-- Export the cleaned data for SQL analysis.
-
-- Run SQL Queries
-
-- Import the cleaned CSV into SQL Server.
-
-- Execute provided SQL scripts to extract insights.
-
-- Visualize in Power BI
-
-- Connect Power BI to SQL Server.
-
-- Use the provided .pbix file to view and customize the dashboard.
-
 - View the Report
 
 Open the Gamma presentation for a concise storytelling summary of findings.
