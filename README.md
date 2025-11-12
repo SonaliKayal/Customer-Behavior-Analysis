@@ -99,40 +99,43 @@ KPIs: Total Customers, Avg Purchase Amount, Avg Review Rating
 
 Visuals:-
 
-Revenue & Sales by Category
+- Revenue & Sales by Category
 
-Revenue by Age Group
+- Revenue by Age Group
 
-% of Customers by Subscription Status
+- % of Customers by Subscription Status
 
-Revenue by Shipping Type
+- Revenue by Shipping Type
 
-Filters for Gender, Category, Subscription Status, and Shipping Type
+- Filters for Gender, Category, Subscription Status, and Shipping Type
+
+<img width="1317" height="720" alt="dashboard SS" src="https://github.com/user-attachments/assets/eda0be57-d10b-405a-9cd2-cf3c38f220de" />
+
 
 📊 Results & Insights:-
 
-Clothing generates the highest revenue and sales volume.
+- Clothing generates the highest revenue and sales volume.
 
-Young Adults and Middle-aged customers are the top contributors to revenue.
+- Young Adults and Middle-aged customers are the top contributors to revenue.
 
-Subscribers account for 27% of customers but generate higher per-order value.
+- Subscribers account for 27% of customers but generate higher per-order value.
 
-Discount usage boosts sales but can impact profit margins.
+- Discount usage boosts sales but can impact profit margins.
 
-Express shipping users tend to have higher purchase amounts.
+- Express shipping users tend to have higher purchase amounts.
 
 💡 Business Recommendations:-
 
-Boost Subscriptions: Offer exclusive benefits to increase the subscriber base.
+- Boost Subscriptions: Offer exclusive benefits to increase the subscriber base.
 
-Customer Loyalty Programs: Reward repeat buyers to strengthen retention.
+- Customer Loyalty Programs: Reward repeat buyers to strengthen retention.
 
-Optimize Discounts: Apply smart discounting to balance revenue and margin.
+- Optimize Discounts: Apply smart discounting to balance revenue and margin.
 
-Promote Top Categories: Highlight high-revenue categories in campaigns.
+- Promote Top Categories: Highlight high-revenue categories in campaigns.
 
-Targeted Marketing: Focus on high-value demographics and shipping preferences.
+- Targeted Marketing: Focus on high-value demographics and shipping preferences.
 
-- View the Report
+View the Report
 
 Open the Gamma presentation for a concise storytelling summary of findings.
