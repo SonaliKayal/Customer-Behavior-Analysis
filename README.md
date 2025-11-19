@@ -16,7 +16,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+✅ Visualization & Insights (Power BI): Build an interactive dashboards that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
@@ -49,7 +49,7 @@ Category	Tools Used:-
 - Database Querying : 	Microsoft SQL Server
 - Visualization :	Power BI
 - Presentation	: Gamma (for storytelling and interactive slides)
-- Environment	: Jupyter Notebook / VS Code
+- Environment	: Jupyter Notebook 
   
 🔍 Steps & Process:-
 
@@ -109,7 +109,30 @@ Visuals:-
 
 - Filters for Gender, Category, Subscription Status, and Shipping Type
 
+Page 1 (Customer Overview Dashboard)
+
 <img width="1317" height="720" alt="dashboard SS" src="https://github.com/user-attachments/assets/eda0be57-d10b-405a-9cd2-cf3c38f220de" />
+
+Building on the foundational overview, Page 2 (Customer Trends And Performance) of the dashboard delves into the core drivers of customer value and operational effectiveness. This section provides a granular view of what makes customers loyal, how they spend, and when they are most active, enabling highly targeted business strategies.
+
+
+This dashboard page provides deeper insights into customer loyalty patterns, purchasing habits, and seasonal trends that drive business performance.
+
+Key Findings:
+
+- Customer Loyalty: Strong repeat purchase behavior with average of 25 previous transactions per customer
+- Subscription Impact: Subscribers generate 99% higher revenue despite being only 27% of customer base
+- Purchase Frequency: 89-day average cycle indicates opportunity to increase purchase frequency
+- Seasonal Trends: Spring and Winter are peak revenue seasons, guiding inventory planning
+- Payment Preferences: Credit cards dominate with 17.29% of total payment volume
+- Top Locations: Montana, Illinois, California are highest-performing states
+- Category Performance: Accessories show highest repurchase rate, indicating strong customer retention
+- Discount Effectiveness: Outerwear category responds best to discount strategies
+- Revenue Drivers: Middle-aged and Adult segments contribute most to overall revenue
+
+Page 2 (Customer Trends And Performance)
+
+<img width="1253" height="708" alt="Screenshot 2025-11-18 223133" src="https://github.com/user-attachments/assets/2ad4932f-ff87-449d-978b-b4afdefffc89" />
 
 
 📊 Results & Insights:-
@@ -123,18 +146,42 @@ Visuals:-
 - Discount usage boosts sales but can impact profit margins.
 
 - Express shipping users tend to have higher purchase amounts.
+  
+- Strong loyalty: 25 average previous purchases per customer
+
+- Subscribers deliver 99% higher lifetime value
+
+- 89-day purchase cycle presents engagement opportunity
+
+- Spring & Winter are peak revenue seasons
+
+- Credit cards dominate payments (17.29% share)
+
+- Montana, Illinois, California are top-performing states
 
 💡 Business Recommendations:-
 
-- Boost Subscriptions: Offer exclusive benefits to increase the subscriber base.
+Based on Page 1 Insights:
 
-- Customer Loyalty Programs: Reward repeat buyers to strengthen retention.
+Promote Top Categories: Increase marketing focus on Clothing and Accessories, which generate highest revenue and repurchase rates
 
-- Optimize Discounts: Apply smart discounting to balance revenue and margin.
+Target High-Value Demographics: Create tailored campaigns for Young Adults and Middle-aged customers who drive 65% of revenue
 
-- Promote Top Categories: Highlight high-revenue categories in campaigns.
+Optimize Shipping Options: Promote Express shipping to leverage its 15% higher purchase amounts
 
-- Targeted Marketing: Focus on high-value demographics and shipping preferences.
+Based on Page 2 Insights:
+
+- Boost Subscription Conversions: Leverage the 99% revenue premium from subscribers with exclusive benefits and targeted onboarding
+
+- Enhance Loyalty Programs: Capitalize on strong repeat behavior (25 avg purchases) with tiered rewards for frequent buyers
+
+- Strategic Discount Management: Apply smart discounting on Outerwear (most responsive) while protecting margins on Clothing
+
+- Seasonal Inventory Planning: Align stock levels with Spring and Winter revenue peaks
+
+- Geographic Expansion: Concentrate marketing efforts on top-performing states (Montana, Illinois, California)
+
+- Purchase Frequency Improvement: Develop campaigns to reduce the 89-day purchase cycle through personalized reminders
 
 View the Report
 
