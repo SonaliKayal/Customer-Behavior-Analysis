@@ -8,7 +8,7 @@ The goal is to understand how customers interact with products and offers and to
 
 The workflow covers the entire data analytics pipeline — from data loading and cleaning in Python, SQL-based querying, and visualization in Power BI, to generating a final report and presentation in Gamma.
 
-📌 Project Overview
+📌 Project Overview :
 
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
