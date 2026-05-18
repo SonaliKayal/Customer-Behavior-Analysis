@@ -118,7 +118,7 @@ Building on the foundational overview, Page 2 (Customer Trends And Performance) 
 
 This dashboard page provides deeper insights into customer loyalty patterns, purchasing habits, and seasonal trends that drive business performance.
 
-Key Findings:
+Key Findings:-
 
 - Customer Loyalty: Strong repeat purchase behavior with average of 25 previous transactions per customer
 - Subscription Impact: Subscribers generate 99% higher revenue despite being only 27% of customer base
@@ -161,7 +161,7 @@ Page 2 (Customer Trends And Performance)
 
 💡 Business Recommendations:-
 
-Based on Page 1 Insights:
+Based on Page 1 Insights:=
 
 Promote Top Categories: Increase marketing focus on Clothing and Accessories, which generate highest revenue and repurchase rates
 
@@ -169,7 +169,7 @@ Target High-Value Demographics: Create tailored campaigns for Young Adults and M
 
 Optimize Shipping Options: Promote Express shipping to leverage its 15% higher purchase amounts
 
-Based on Page 2 Insights:
+Based on Page 2 Insights:-
 
 - Boost Subscription Conversions: Leverage the 99% revenue premium from subscribers with exclusive benefits and targeted onboarding
 
