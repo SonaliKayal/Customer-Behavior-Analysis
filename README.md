@@ -1,4 +1,4 @@
-# Customer-Behavior-Analysis :
+# Customer-Behavior-Analysis 
 
 🛍️ Customer Shopping Behavior Model
 
@@ -71,7 +71,7 @@ purchase_frequency_days (from timestamp data)
 
 Exported the cleaned dataset for SQL analysis.
 
-2️⃣ Data Analysis (SQL Server):-
+2️⃣ Data Analysis (SQL Server):
 
 Executed analytical SQL queries to extract key insights:
 
@@ -89,15 +89,15 @@ Customer Segmentation – Classified users as New, Returning, or Loyal based on 
 
 Revenue by Age Group – Evaluated which demographic drives the most revenue.
 
-3️⃣ Dashboard (Power BI) :-
+3️⃣ Dashboard (Power BI) :
 
 Created an interactive Power BI dashboard to visualize key insights.
 
-Dashboard Highlights:-
+Dashboard Highlights:
 
 KPIs: Total Customers, Avg Purchase Amount, Avg Review Rating
 
-Visuals:-
+Visuals:
 
 - Revenue & Sales by Category
 
@@ -135,7 +135,7 @@ Page 2 (Customer Trends And Performance)
 <img width="1253" height="708" alt="Screenshot 2025-11-18 223133" src="https://github.com/user-attachments/assets/2ad4932f-ff87-449d-978b-b4afdefffc89" />
 
 
-📊 Results & Insights:-
+📊 Results & Insights:
 
 - Clothing generates the highest revenue and sales volume.
 
@@ -159,9 +159,9 @@ Page 2 (Customer Trends And Performance)
 
 - Montana, Illinois, California are top-performing states
 
-💡 Business Recommendations:-
+💡 Business Recommendations:
 
-Based on Page 1 Insights:=
+Based on Page 1 Insights:
 
 Promote Top Categories: Increase marketing focus on Clothing and Accessories, which generate highest revenue and repurchase rates
 
@@ -169,7 +169,7 @@ Target High-Value Demographics: Create tailored campaigns for Young Adults and M
 
 Optimize Shipping Options: Promote Express shipping to leverage its 15% higher purchase amounts
 
-Based on Page 2 Insights:-
+Based on Page 2 Insights:
 
 - Boost Subscription Conversions: Leverage the 99% revenue premium from subscribers with exclusive benefits and targeted onboarding
 
