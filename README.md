@@ -31,7 +31,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 - Columns: 18
 
-- Key Attributes:
+- Key Attributes:-
 
   - Customer demographics: Age, Gender, Location, Subscription Status
 
@@ -71,7 +71,7 @@ purchase_frequency_days (from timestamp data)
 
 Exported the cleaned dataset for SQL analysis.
 
-2️⃣ Data Analysis (SQL Server):
+2️⃣ Data Analysis (SQL Server):-
 
 Executed analytical SQL queries to extract key insights:
 
@@ -89,7 +89,7 @@ Customer Segmentation – Classified users as New, Returning, or Loyal based on 
 
 Revenue by Age Group – Evaluated which demographic drives the most revenue.
 
-3️⃣ Dashboard (Power BI) :
+3️⃣ Dashboard (Power BI) :-
 
 Created an interactive Power BI dashboard to visualize key insights.
 
